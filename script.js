@@ -1,0 +1,1 @@
+// Cole aqui todo o conteúdo da tag <script> do HTML original
